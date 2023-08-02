@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntentStingBoolInt</string>
+    <string name="name_tv">Name:</string>
+    <string name="name_hint">Enter your name </string>
+    <string name="age_tv">Age:</string>
+    <string name="age_hint">Enter your age </string>
+    <string name="ruhappy_tv">Are You Happy?</string>
+    <string name="rbtn_yes">Yes</string>
+    <string name="rbtn_no">No</string>
+    <string name="submit_btn">Let\'s Go</string>
+</resources>
